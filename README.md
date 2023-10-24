@@ -1,1 +1,1 @@
-# borrar-aws
+# borrar-azure
